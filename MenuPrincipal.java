@@ -13,7 +13,7 @@ public class MenuPrincipal {
 		
 		while (opcion != 0) {
 			
-			System.out.println("Elija una opcion del 1-5 \n" + 
+			System.out.println("Elija una opcion del 1 al 7 \n" + 
 			"1.Depostitar dinero: \n"+
 			"2.Retirar dinero: \n"+
 			"3.Ver movimientos: \n"+
